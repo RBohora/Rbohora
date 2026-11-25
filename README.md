@@ -65,9 +65,6 @@ A project I’m preparing to publish. I’ll add its overview, technical details
 **Development:** REST APIs, FastAPI, JavaScript, HTML, Tailwind CSS  
 **Databases & tools:** MySQL, MongoDB, Git, GitHub, VS Code
 
-## Beyond code
-
-As a Machine Learning Club core member, I have helped run hands-on workshops, campus hackathons, and technical events. I also volunteer as a community facilitator, supporting constructive dialogue and community awareness.
 
 ## Find me
 
