@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="profile-banner.svg"
+       width="100%"
+       alt="Raghav Bohora - Developer Profile">
+</p>
 ## Hi there 👋
 
 <!--
