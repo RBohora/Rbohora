@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Raghav Bohora 👋</h1>
 
 <p align="center">
-  Computer Science Engineering student building practical projects in machine learning and software development.
+  AI & machine learning student building end-to-end systems across computer vision, geospatial intelligence, and real-time software.
 </p>
 
 <p align="center">
@@ -17,38 +17,57 @@
 
 ## About me
 
-- 🎓 Computer Science Engineering student
-- 🤖 Interested in machine learning, computer vision, and building useful software
-- 🌱 Currently learning by designing, training, and improving end-to-end projects
-- 🤝 Open to connecting and collaborating on thoughtful engineering projects
+- 🎓 B.Tech in Computer Science and Engineering (AI & Machine Learning), VIT-AP University, 2023–2027
+- 🧠 I build applied ML systems, from data pipelines and model training through evaluation and API integration
+- 🛰️ Interested in computer vision, geospatial AI, model monitoring, and real-time anomaly detection
+- 🧩 Core Technical Member, Machine Learning Club; I have led workshops and contributed to collaborative projects
+- 🤝 Open to connecting with people building useful, well-engineered AI products
 
 ## Featured projects
 
-### 🧠 [Brain MRI Tumor Classifier](https://github.com/RBohora/brain-mri-cnn-classifier)
+### 🧠 [Brain MRI Scan Classification](https://github.com/RBohora/brain-mri-cnn-classifier)
 
-A PyTorch CNN that classifies brain MRI images into four categories: glioma, meningioma, pituitary tumor, and no tumor.
+An end-to-end medical imaging project for classifying brain MRI scans into multiple diagnostic categories. Built preprocessing and augmentation workflows, trained CNN and transfer-learning models, and added evaluation with precision, recall, ROC-AUC, and confidence outputs.
 
-**Highlights:** model training and evaluation, single-image predictions, visualized results, and a Gradio demo.
+**Tech:** Python · PyTorch · TorchVision · OpenCV · scikit-learn
 
-**Stack:** Python · PyTorch · TorchVision · Gradio · scikit-learn
+### 🌊 ResQTwin — AI-Driven Digital Twin for Emergency Response
 
-### 📝 [College Feedback Classifier](https://github.com/RBohora/college_feedback_classifier)
+An urban flood intelligence and emergency response platform combining satellite imagery, environmental signals, geospatial data, and risk analysis to support situational awareness and response planning. My work spans AI/ML architecture, model and data pipelines, explainability, and backend integration.
 
-A machine learning project focused on classifying college feedback.
+**Tech:** Python · PyTorch · FastAPI · React · JavaScript · GIS/geospatial tools
 
-**Stack:** Python
+*Project repository coming soon.*
+
+### 🎮 Photon Project
+
+A project I’m preparing to publish. I’ll add its overview, technical details, and repository link here once it’s ready.
 
 ---
 
-## Tech I work with
+## Skills & tools
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/Gradio-F97316?style=flat-square&logo=gradio&logoColor=white" alt="Gradio">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" alt="Unreal Engine">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
+
+**ML:** CNNs, RNNs, transfer learning, statistical analysis, model evaluation, drift detection  
+**Development:** REST APIs, FastAPI, JavaScript, HTML, Tailwind CSS  
+**Databases & tools:** MySQL, MongoDB, Git, GitHub, VS Code
+
+## Beyond code
+
+As a Machine Learning Club core member, I have helped run hands-on workshops, campus hackathons, and technical events. I also volunteer as a community facilitator, supporting constructive dialogue and community awareness.
 
 ## Find me
 
@@ -58,5 +77,5 @@ A machine learning project focused on classifying college feedback.
 ---
 
 <p align="center">
-  <i>Learning by building, one project at a time.</i>
+  <i>Building practical AI systems with curiosity and care.</i>
 </p>
